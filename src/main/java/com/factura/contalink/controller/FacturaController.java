@@ -22,12 +22,6 @@ public class FacturaController {
     @Autowired
     private FacturaService facturaService;
     
-	@GetMapping("/factura")
-	public ResponseEntity<String>  getBitacora() {
-		return ResponseEntity.status(HttpStatus.OK).body("HOLA");
-	}
-	
-
     @GetMapping("/facturas")
     public ResponseEntity<List<Invoice>> obtenerInvoicesPorFechas(
             @RequestParam(required = false) String fechaInicial,
