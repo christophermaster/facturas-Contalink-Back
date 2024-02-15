@@ -72,6 +72,10 @@ Estos pasos garantizan que el proyecto esté configurado correctamente, las depe
 
 La aplicación se iniciará en el puerto 8080 por defecto. Puede acceder a ella en la siguiente URL: [http://localhost:8080/](http://localhost:8080/)
 
+## Información adicional 
+
+Si desea ver el proyecto de forma visual, se recomienda descargar el proyecto correspondiente al FRONT desde `https://github.com/christophermaster/facturas-Contalink-Front/tree/develop`. Este proyecto FRONT contiene la integración de los datos. Asegúrate de seguir el proceso de instalación adecuado antes de iniciar el proyecto FRONT.
+
 ## Proyecto Ejecutado 
 
 ### Evidencias
